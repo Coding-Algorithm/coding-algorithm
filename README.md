@@ -2,7 +2,7 @@
 
 **Curious mind. Full-stack range. Trusted partner.**
 
-I'm a full-spectrum tech professional based in Osun State, Nigeria. I work with startups and growing businesses — locally and remotely — who need someone that can see the whole technical picture and actually do something about it.
+I'm a full-spectrum tech professional based in Osun State, Nigeria. I work with startups and growing businesses, locally and remotely, who need someone that can see the whole technical picture and actually do something about it.
 
 Most engagements call for one specialist. I'm the rare thing: one person who can walk into a codebase, assess the infrastructure, spot the security gaps, think about AI readiness, and then build, front to back.
 
