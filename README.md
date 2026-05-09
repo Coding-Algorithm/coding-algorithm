@@ -33,4 +33,4 @@ Open to select projects — local and remote.
 
 ---
 
-*Let's talk →* **[your-email@domain.com](mailto:your-email@domain.com)** · [LinkedIn](#) · [Portfolio](#)
+*Let's talk →* **[ibrahim@ibrahimtaofeek.com](mailto:ibrahim@ibrahimtaofeek.com)** · [Portfolio](https://www.ibrahimtaofeek.com)
