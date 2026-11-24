@@ -1,38 +1,46 @@
 # Ibrahim Taofeek
 
-**Curious mind. Full-stack range. Trusted partner.**
+**Software engineer. I build and ship web, mobile and backend systems, and I work AI-native by default.**
 
-I'm a full-spectrum tech professional based in Osun State, Nigeria. I work with startups and growing businesses, locally and remotely, who need someone that can see the whole technical picture and actually do something about it.
-
-Most engagements call for one specialist. I'm the rare thing: one person who can walk into a codebase, assess the infrastructure, spot the security gaps, think about AI readiness, and then build, front to back.
+I'm based in Osun State, Nigeria (UTC+1). For 5+ years I've taken products from the first commit to the app stores and production servers, mostly for startups and small businesses, working both locally and remotely. I own the whole path: architecture, code, deployment, and keeping it running.
 
 ---
 
-## 🛠️ What I work with
+### 🛠️ Stack
 
-- 🖥️ **Fullstack Development** — Frontend to backend, whatever the stack demands
-- 🔐 **Cybersecurity** — Security built in from the start, not bolted on at the end
-- 🤖 **AI/ML** — Practical applications, not hype
-- ☁️ **DevOps & Cloud** — Infrastructure that holds up when things get serious
-- 🎨 **UI/UX Design** — Interfaces that actually make sense to the people using them
+**Languages:** TypeScript · JavaScript · Python · SQL
+**Frontend & mobile:** React · Next.js · React Native · Expo · Tailwind CSS
+**Backend & data:** Go · Node.js · Express · PostgreSQL · MongoDB · Firebase · Pandas
+**Infrastructure:** Linux · Nginx · Docker · AWS · Railway · CI/CD · PM2
+
+### 🚀 What I've shipped
+
+- **nKiosk:** a full-stack commerce platform I built from scratch (web, API and infrastructure). It has separate frontend and backend repos, each with its own CI/CD pipeline, and both follow domain-driven design.
+- **Cross-platform mobile apps** in React Native and Expo with fully typed navigation, push notifications and production releases.
+- **Legacy rescue work:** I paid down technical debt in a live SME bookkeeping app without stopping feature delivery.
+
+### 🤖 AI-native, in practice
+
+AI agents are part of how I work every day:
+
+- **Building:** I run coding agents through real features, from scaffolding to tests. I set the architecture and check every diff.
+- **Reviewing:** I use agent-assisted code and security review on my own pull requests before anyone else sees them.
+- **Operating:** I automate the repetitive parts of deployments, debugging and reporting.
+
+That lets me ship at the pace of a small team while keeping quality where it should be. The engineering judgment stays mine, and AI handles the speed.
+
+### 📊 Currently learning
+
+I'm working through the **Data Scientist track on DataCamp** and practicing SQL on real schemas. I'm applying it as I go by building a **school fees and attendance dashboard**.
+
+The goal is to be an engineer who can build the product *and* tell you what its data is saying.
+
+### 🤝 Open to
+
+- Contract work on web, mobile and backend builds
+- White-label development for agencies
+- Small data analysis and reporting projects
 
 ---
 
-## 🤝 How I work
-
-I don't just execute briefs. I ask questions, dig into the problem, and tell you what I find, including the things you didn't ask about but probably need to know. Plain language, honest assessments, no upselling.
-
-If something in your stack concerns me, I'll say so. If I don't know something, I'll tell you and go find out. Trust is the whole point.
-
----
-
-## 📍 Currently
-
-Building and securing things for founders and teams who care about getting it right.
-Open to select projects, local and remote.
-
----
-
-💬 **Let's talk**
-
-📧 [ibrahim@ibrahimtaofeek.com](mailto:ibrahim@ibrahimtaofeek.com) &nbsp;|&nbsp; 🌐 [ibrahimtaofeek.com](https://www.ibrahimtaofeek.com)
+🌐 [ibrahimtaofeek.com](https://ibrahimtaofeek.com)
