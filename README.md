@@ -8,10 +8,10 @@ I'm based in Osun State, Nigeria (UTC+1). For 5+ years I've taken products from 
 
 ### 🛠️ Stack
 
-**Languages:** TypeScript · JavaScript · Python · SQL
-**Frontend & mobile:** React · Next.js · React Native · Expo · Tailwind CSS
-**Backend & data:** Go · Node.js · Express · PostgreSQL · MongoDB · Firebase · Pandas
-**Infrastructure:** Linux · Nginx · Docker · AWS · Railway · CI/CD · PM2
+- **Languages:** TypeScript · JavaScript · Python · SQL
+- **Frontend & mobile:** React · Next.js · React Native · Expo · Tailwind CSS
+- **Backend & data:** Go · Node.js · Express · PostgreSQL · MongoDB · Firebase · Pandas
+- **Infrastructure:** Linux · Nginx · Docker · AWS · Railway · CI/CD · PM2
 
 ### 🚀 What I've shipped
 
